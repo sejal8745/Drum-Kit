@@ -1,2 +1,2 @@
 # drum-kit
-Based on basic Javascript ( learned from udemy)
+Based mainly on basic Javascript ( learned from udemy)
